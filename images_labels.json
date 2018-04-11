@@ -1,0 +1,257 @@
+[
+  {
+    "training": [
+      "yalefaces/subject01.glasses",
+      "yalefaces/subject01.happy",
+      "yalefaces/subject01.leftlight",
+      "yalefaces/subject01.noglasses",
+      "yalefaces/subject01.normal",
+      "yalefaces/subject01.rightlight",
+      "yalefaces/subject01.sleepy",
+      "yalefaces/subject01.surprised",
+      "yalefaces/subject01.wink"
+    ],
+    "testing": [
+      "yalefaces/subject01.sad"
+    ]
+  },
+  {
+    "training": [
+      "yalefaces/subject02.glasses",
+      "yalefaces/subject02.happy",
+      "yalefaces/subject02.leftlight",
+      "yalefaces/subject02.noglasses",
+      "yalefaces/subject02.normal",
+      "yalefaces/subject02.rightlight",
+      "yalefaces/subject02.sleepy",
+      "yalefaces/subject02.surprised",
+      "yalefaces/subject02.wink"
+    ],
+    "testing": [
+      "yalefaces/subject02.sad"
+    ]
+  },
+  {
+    "training": [
+      "yalefaces/subject03.glasses",
+      "yalefaces/subject03.happy",
+      "yalefaces/subject03.leftlight",
+      "yalefaces/subject03.noglasses",
+      "yalefaces/subject03.normal",
+      "yalefaces/subject03.rightlight",
+      "yalefaces/subject03.sleepy",
+      "yalefaces/subject03.surprised",
+      "yalefaces/subject03.wink"
+    ],
+    "testing": [
+      "yalefaces/subject03.sad"
+    ]
+  },
+  {
+    "training": [
+      "yalefaces/subject04.glasses",
+      "yalefaces/subject04.happy",
+      "yalefaces/subject04.leftlight",
+      "yalefaces/subject04.noglasses",
+      "yalefaces/subject04.normal",
+      "yalefaces/subject04.rightlight",
+      "yalefaces/subject04.sleepy",
+      "yalefaces/subject04.surprised",
+      "yalefaces/subject04.wink"
+    ],
+    "testing": [
+      "yalefaces/subject04.sad"
+    ]
+  },
+  {
+    "training": [
+      "yalefaces/subject05.glasses",
+      "yalefaces/subject05.happy",
+      "yalefaces/subject05.leftlight",
+      "yalefaces/subject05.noglasses",
+      "yalefaces/subject05.normal",
+      "yalefaces/subject05.rightlight",
+      "yalefaces/subject05.sleepy",
+      "yalefaces/subject05.surprised",
+      "yalefaces/subject05.wink"
+    ],
+    "testing": [
+      "yalefaces/subject05.sad"
+    ]
+  },
+  {
+    "training": [
+      "yalefaces/subject06.glasses",
+      "yalefaces/subject06.happy",
+      "yalefaces/subject06.leftlight",
+      "yalefaces/subject06.noglasses",
+      "yalefaces/subject06.normal",
+      "yalefaces/subject06.rightlight",
+      "yalefaces/subject06.sleepy",
+      "yalefaces/subject06.surprised",
+      "yalefaces/subject06.wink"
+    ],
+    "testing": [
+      "yalefaces/subject06.sad"
+    ]
+  },
+  {
+    "training": [
+      "yalefaces/subject07.glasses",
+      "yalefaces/subject07.happy",
+      "yalefaces/subject07.leftlight",
+      "yalefaces/subject07.noglasses",
+      "yalefaces/subject07.normal",
+      "yalefaces/subject07.rightlight",
+      "yalefaces/subject07.sleepy",
+      "yalefaces/subject07.surprised",
+      "yalefaces/subject07.wink"
+    ],
+    "testing": [
+      "yalefaces/subject07.sad"
+    ]
+  },
+  {
+    "training": [
+      "yalefaces/subject08.glasses",
+      "yalefaces/subject08.happy",
+      "yalefaces/subject08.leftlight",
+      "yalefaces/subject08.noglasses",
+      "yalefaces/subject08.normal",
+      "yalefaces/subject08.rightlight",
+      "yalefaces/subject08.sleepy",
+      "yalefaces/subject08.surprised",
+      "yalefaces/subject08.wink"
+    ],
+    "testing": [
+      "yalefaces/subject08.sad"
+    ]
+  },
+  {
+    "training": [
+      "yalefaces/subject09.glasses",
+      "yalefaces/subject09.happy",
+      "yalefaces/subject09.leftlight",
+      "yalefaces/subject09.noglasses",
+      "yalefaces/subject09.normal",
+      "yalefaces/subject09.rightlight",
+      "yalefaces/subject09.sleepy",
+      "yalefaces/subject09.surprised",
+      "yalefaces/subject09.wink"
+    ],
+    "testing": [
+      "yalefaces/subject09.sad"
+    ]
+  },
+  {
+    "training": [
+      "yalefaces/subject10.glasses",
+      "yalefaces/subject10.happy",
+      "yalefaces/subject10.leftlight",
+      "yalefaces/subject10.noglasses",
+      "yalefaces/subject10.normal",
+      "yalefaces/subject10.rightlight",
+      "yalefaces/subject10.sleepy",
+      "yalefaces/subject10.surprised",
+      "yalefaces/subject10.wink"
+    ],
+    "testing": [
+      "yalefaces/subject10.sad"
+    ]
+  },
+  {
+    "training": [
+      "yalefaces/subject11.glasses",
+      "yalefaces/subject11.happy",
+      "yalefaces/subject11.leftlight",
+      "yalefaces/subject11.noglasses",
+      "yalefaces/subject11.normal",
+      "yalefaces/subject11.rightlight",
+      "yalefaces/subject11.sleepy",
+      "yalefaces/subject11.surprised",
+      "yalefaces/subject11.wink"
+    ],
+    "testing": [
+      "yalefaces/subject11.sad"
+    ]
+  },
+  {
+    "training": [
+      "yalefaces/subject12.glasses",
+      "yalefaces/subject12.happy",
+      "yalefaces/subject12.leftlight",
+      "yalefaces/subject12.noglasses",
+      "yalefaces/subject12.normal",
+      "yalefaces/subject12.rightlight",
+      "yalefaces/subject12.sleepy",
+      "yalefaces/subject12.surprised",
+      "yalefaces/subject12.wink"
+    ],
+    "testing": [
+      "yalefaces/subject12.sad"
+    ]
+  },
+  {
+    "training": [
+      "yalefaces/subject13.glasses",
+      "yalefaces/subject13.happy",
+      "yalefaces/subject13.leftlight",
+      "yalefaces/subject13.noglasses",
+      "yalefaces/subject13.normal",
+      "yalefaces/subject13.rightlight",
+      "yalefaces/subject13.sleepy",
+      "yalefaces/subject13.surprised",
+      "yalefaces/subject13.wink"
+    ],
+    "testing": [
+      "yalefaces/subject13.sad"
+    ]
+  },
+  {
+    "training": [
+      "yalefaces/subject14.glasses",
+      "yalefaces/subject14.happy",
+      "yalefaces/subject14.leftlight",
+      "yalefaces/subject14.noglasses",
+      "yalefaces/subject14.normal",
+      "yalefaces/subject14.rightlight",
+      "yalefaces/subject14.sleepy",
+      "yalefaces/subject14.surprised",
+      "yalefaces/subject14.wink"
+    ],
+    "testing": [
+      "yalefaces/subject14.sad"
+    ]
+  },
+  {
+    "training": [
+      "yalefaces/subject15.glasses",
+      "yalefaces/subject15.happy",
+      "yalefaces/subject15.leftlight",
+      "yalefaces/subject15.noglasses",
+      "yalefaces/subject15.normal",
+      "yalefaces/subject15.rightlight",
+      "yalefaces/subject15.sleepy",
+      "yalefaces/subject15.surprised",
+      "yalefaces/subject15.wink"
+    ],
+    "testing": [
+      "yalefaces/subject15.sad"
+    ]
+  },
+  {
+    "training": [
+      "yalefaces/subject16.1",
+      "yalefaces/subject16.2",
+      "yalefaces/subject16.3",
+      "yalefaces/subject16.4",
+      "yalefaces/subject16.5",
+      "yalefaces/subject16.6",
+      "yalefaces/subject16.7",
+      "yalefaces/subject16.8"
+    ],
+    "testing": [
+      "yalefaces/subject16.9"
+    ]
+  }
+]
